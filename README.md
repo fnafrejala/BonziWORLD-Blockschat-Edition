@@ -8,7 +8,7 @@
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone https://github.com/mrnotesonic/BonziWORLD-Revived
+git clone [https://github.com/mrnotesonic/BonziWORLD-Revived](https://github.com/fnafrejala/BonziWORLD-Blockschat-Edition)
 cd BonziWORLD-Revived
 ```
 
