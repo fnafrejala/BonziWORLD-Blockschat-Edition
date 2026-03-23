@@ -9,7 +9,7 @@
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
 git clone https://github.com/fnafrejala/BonziWORLD-Blockschat-Edition
-cd BonziWORLD-Revived
+cd BonziWORLD-Blockschat-Edition
 ```
 
 ### Server
